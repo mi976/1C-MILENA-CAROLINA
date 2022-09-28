@@ -5,8 +5,13 @@
 
  #imagem {
     text-align: center;
+    blackground: black;
  }
 
+.cabecalho {
+    border-bottom-style: solid;
+    margin-left: -8px;
+ 
  #link {
     text-align: center;
  }
