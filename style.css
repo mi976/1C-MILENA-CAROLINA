@@ -28,3 +28,26 @@ h1 {
     text-align: center;
 }
 
+ .rodape {
+     border-top-style: solid;
+     background: greenyellow;
+     margin-bottom: -8px;
+     margin-left: -8px;
+     margin-right: -8px;
+     padding: 1px;
+}
+
+#rodape2 {
+    color: blue;
+    text-aling: center;
+}
+ 
+ .lista {
+     font-size: 30;
+     color: red;
+}
+
+.imagem {
+  
+  
+
